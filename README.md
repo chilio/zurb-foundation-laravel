@@ -7,7 +7,7 @@
 Foundation Laravel (Laravel4 Package)
 ==========
 
-### tl;dr
+### tl;dr;
 
 Build HTML form elements for Foundation inside Laravel 4, including validation error handling. Documentation for the respective frameworks can be found at [Foundation website](http://foundation.zurb.com/docs) and [Laravel website](http://laravel.com/docs).
 
